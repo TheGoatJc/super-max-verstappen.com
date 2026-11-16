@@ -8,3 +8,5 @@ im a type of person who enjoys watching reels and playing games and also i like 
  - Watching reels like tiktok. 📱
  - Going to difference places / Trips. 🌍
 
+### Midterm Projects
+[Midterm Task 1](
