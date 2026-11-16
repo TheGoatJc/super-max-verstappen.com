@@ -1,3 +1,10 @@
 # Welcome to my Java Project Repository
 
-##  About Me
+## 👋 About Me
+im a type of person who enjoys watching reels and playing games and also i like spending time with friends and mostly im introvert. I dont like debugging and i sometimes like coding but sometimes in the life no. and my area of ineterest is playing games, watching reels and going in many places
+
+### Area of Interests:
+ - Playing Games. 🎮
+ - Watching reels like tiktok. 📱
+ - Going to difference places / Trips. 🌍
+
