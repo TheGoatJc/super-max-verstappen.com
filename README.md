@@ -9,4 +9,5 @@ im a type of person who enjoys watching reels and playing games and also i like 
  - Going to difference places / Trips. 🌍
 
 ### Midterm Projects
-[Midterm Task 1](
+[Midterm Task 1](https://github.com/TheGoatJc/super-max-verstappen.com/blob/main/Lab%20Exercise/Midterms/Labtask1/Marquez%2C%20Jeramie%20Christian%20M-LabTask_1.pdf)
+
