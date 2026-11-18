@@ -4,7 +4,6 @@
 [Midterm Task 1](https://github.com/TheGoatJc/super-max-verstappen.com/blob/main/Lab%20Exercise/Midterms/Labtask1/Marquez%2C%20Jeramie%20Christian%20M-LabTask_1.pdf)
 
 <div align="center">
-<img src="YOUR-MERCEDES-IMAGE-URL" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B0D,50:006B68,100:00E6D2&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:14558A,100:55B8FF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Project%20Repository&descAlignY=60&animation=fadeIn" width="100%"/>
