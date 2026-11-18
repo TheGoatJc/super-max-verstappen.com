@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
 
 </div>
 
