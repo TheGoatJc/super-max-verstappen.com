@@ -36,11 +36,7 @@ I'm a type of person who enjoys watching reels and playing games. I also like sp
 
 ## 📂 My Projects
 
-<div align="center">
-
 <h3 align="center"> 💻 Midterm Projects</h3>
-
-</div>
 
 | Project | Description | Language |
 |:---|:---|:---|
