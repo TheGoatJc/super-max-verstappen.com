@@ -6,10 +6,11 @@
 <div align="center">
 
 <div style="
-background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.65)), url('./petronas.jpg');
+background-image: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('./3034198966-Mercedes_AMG_Petronas_F1_Car_Side-(W)-1600x1200-MM-90.jpg');
 background-size: cover;
 background-position: center;
-height: 250px;
+width: 100%;
+height: 400px;
 display: flex;
 align-items: center;
 justify-content: center;
