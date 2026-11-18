@@ -5,22 +5,7 @@
 
 <div align="center">
 
-<div style="
-background-image: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('./3034198966-Mercedes_AMG_Petronas_F1_Car_Side-(W)-1600x1200-MM-90.jpg');
-background-size: cover;
-background-position: center;
-width: 100%;
-height: 400px;
-display: flex;
-align-items: center;
-justify-content: center;
-border-radius: 12px;
-">
-
-<h1 style="color: white; font-size: 40px;">
-Welcome to My Profile
-</h1>
-
+<img src="./3034198966-Mercedes_AMG_Petronas_F1_Car_Side-(W)-1600x1200-MM-90.jpg" width="100%" />
 </div>
 
 </div>
