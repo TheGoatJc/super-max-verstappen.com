@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="YOUR-MERCEDES-IMAGE-URL" width="100%" />
+<img src="./3034198966-Mercedes_AMG_Petronas_F1_Car_Side-(W)-1600x1200-MM-90.jpg" width="100%" alt="Petronas F1 Car">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B0D,50:006B68,100:00E6D2&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
