@@ -38,14 +38,14 @@ I'm a type of person who enjoys watching reels and playing games. I also like sp
 
 <div align="center">
 
-### 💻 Midterm Projects
+<h3 align="center"> 💻 Midterm Projects</h3>
 
 </div>
 
 | Project | Description | Language |
 |:---|:---|:---|
 |  Midterm | Midterm Programming Activities | Java |
-[Midterm Task 1📄 View My Midterm Lab Task 1 (PDF)](https://github.com/TheGoatJc/super-max-verstappen.com/blob/main/Lab%20Exercise/Midterms/Labtask1/Marquez%2C%20Jeramie%20Christian%20M-LabTask_1.pdf)
+|[Midterm Task 1📄 View My Midterm Lab Task 1 (PDF)](https://github.com/TheGoatJc/super-max-verstappen.com/blob/main/Lab%20Exercise/Midterms/Labtask1/Marquez%2C%20Jeramie%20Christian%20M-LabTask_1.pdf)|
 
 ---
 
