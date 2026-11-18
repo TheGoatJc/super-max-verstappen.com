@@ -3,11 +3,7 @@
 ### Midterm Projects
 [Midterm Task 1](https://github.com/TheGoatJc/super-max-verstappen.com/blob/main/Lab%20Exercise/Midterms/Labtask1/Marquez%2C%20Jeramie%20Christian%20M-LabTask_1.pdf)
 
-<div align="center">
-
 <img src="./3034198966-Mercedes_AMG_Petronas_F1_Car_Side-(W)-1600x1200-MM-90.jpg" width="100%" />
-</div>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B0D,50:006B68,100:00E6D2&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
