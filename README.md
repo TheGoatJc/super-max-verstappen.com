@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:14558A,100:55B8FF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Project%20Repository&descAlignY=60&animation=fadeIn" width="100%"/>
 
-# 👋 Hello, I'm Jeramie!
+# 👋 Hello, I'm TheGoatJeramie!
 
 ### super-max-verstappen.com
 
@@ -50,7 +50,7 @@ I'm a type of person who enjoys watching reels and playing games. I also like sp
 
 | Project | Description | Language |
 |:---|:---|:---|
-|  Midterm | Midterm programming activity | Java |
+|  Midterm | Midterm Programming Activities | Java |
 [Midterm Task 1📄 View My Midterm Lab Task 1 (PDF)](https://github.com/TheGoatJc/super-max-verstappen.com/blob/main/Lab%20Exercise/Midterms/Labtask1/Marquez%2C%20Jeramie%20Christian%20M-LabTask_1.pdf)
 
 ---
