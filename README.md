@@ -13,8 +13,6 @@
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/HTML-Web-blue?style=for-the-badge&logo=html5)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
 
 </div>
@@ -51,13 +49,7 @@ I'm a type of person who enjoys watching reels and playing games. I also like sp
 
 ---
 
-## 🛠️ Technologies
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,github,vscode" />
-
-</div>
 
 ---
 
