@@ -67,9 +67,8 @@ I'm a type of person who enjoys watching reels and playing games. I also like sp
 
 <div align="center">
 
-### ✨ Thanks for Visiting My Repository!
+### ✨ Thanks for Visiting My Repository My Goats!
 
-"Every line of code is another step toward learning something new."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:55B8FF,50:14558A,100:071A33&height=120&section=footer" width="100%"/>
 
